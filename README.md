@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left"> Bio </h2>
 
-Hi 👋! My name is `@weber1158` and I am a Ph.D. candidate in the ice core paleoclimatology group at the Byrd Polar and Climate Research Center and the School of Earth Sciences at The Ohio State University.
+Hi 👋! My name is `@weber1158` and I am a Ph.D. candidate working in the ice core paleoclimatology group at the Byrd Polar and Climate Research Center and the School of Earth Sciences at The Ohio State University.
 
 ###
 
